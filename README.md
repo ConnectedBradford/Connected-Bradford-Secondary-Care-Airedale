@@ -1,4 +1,4 @@
-# FDM_template
-FDM template repo
+# CB_FDM_SUS_Airedale
+CB_FDM_SUS_Airedale repo
 
-## Change the title of this README to match the name of the dataset and provide basic details about the data source and FDM contents.
+## Contains guidance for maintaining the Airedale FDM as well as the scripts to run.
