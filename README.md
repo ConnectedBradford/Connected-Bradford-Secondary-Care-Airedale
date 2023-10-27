@@ -23,7 +23,7 @@ CB_FDM_SUS_Airedale_V2 - build date 2023-10-27 - data up to 2023-10-14.
 
 
 # SUS_Airedale 
-The Airedale FDM is made up of 10 source tables (summarised below and data dictionaries linked) from routinely collected primary care data from Airedale Hospital for 323119 individuals and their routinely collcted clinical data. 
+The Airedale FDM is made up of 10 source tables (summarised below and data dictionaries linked) from routinely collected data from Airedale Hospital for 323119 individuals and their routinely collcted clinical data. 
 
 The dates relevant for the latest build are 2010-04-01 to 2023-10-14
 
