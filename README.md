@@ -10,7 +10,7 @@ This is the Connected Bradford SUS_Airedale FDM  GitHub page where you can find 
 
 # FDM_SUS_Airedale
 
-Contains the scripts and data dictionary for the SUS_Airedale . This is the GP datasets for Bradford and Airedale districts. 
+Contains the scripts and data dictionary for the SUS_Airedale . This is the Hospital data gathered at Airedale hospital. 
 It contains approximately 1.2 million patients with the full clinical record. The dataset has been fully anonymised, but can link to other FDM's.
 
 There are a number of SUS_Airedale FDM's. In order they are:.*
